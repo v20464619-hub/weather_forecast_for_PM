@@ -1,0 +1,69 @@
+{
+  "dataset_summary": {
+    "rows": 147930,
+    "columns": 57,
+    "date_min": "2024-05-16",
+    "date_max": "2026-06-17",
+    "countries": 211,
+    "locations": 268
+  },
+  "best_model_by_rmse": {
+    "model": "Linear_Regression",
+    "MAE": 0.35293736131330655,
+    "RMSE": 1.0823360233298822,
+    "MAPE_percent": 3.486116222472581,
+    "R2": 0.8347499481686617
+  },
+  "advanced_outputs": {
+    "anomaly_rate": 0.02,
+    "climate_rows": 4851,
+    "air_quality_analysis_shape": [
+      14,
+      14
+    ],
+    "top_features": [
+      {
+        "feature": "latitude",
+        "importance": 0.3901221537944639
+      },
+      {
+        "feature": "uv_index",
+        "importance": 0.2868474924907149
+      },
+      {
+        "feature": "pressure_mb",
+        "importance": 0.11910429456595924
+      },
+      {
+        "feature": "dayofyear",
+        "importance": 0.06982938678250353
+      },
+      {
+        "feature": "longitude",
+        "importance": 0.04104220169826865
+      },
+      {
+        "feature": "humidity",
+        "importance": 0.030947407295888532
+      },
+      {
+        "feature": "air_quality_Carbon_Monoxide",
+        "importance": 0.010385007694649038
+      },
+      {
+        "feature": "air_quality_Ozone",
+        "importance": 0.009341783569401033
+      },
+      {
+        "feature": "air_quality_PM10",
+        "importance": 0.008903578608058672
+      },
+      {
+        "feature": "air_quality_PM2.5",
+        "importance": 0.007913749393394936
+      }
+    ],
+    "spatial_locations": 430
+  },
+  "outputs_folder": "/mnt/data/weather_forecast_project/outputs"
+}
