@@ -139,21 +139,3 @@ outputs/figures/correlation_matrix.png
 outputs/figures/temperature_anomalies.png
 outputs/figures/spatial_temperature_scatter.png
 ```
-
-## Suggested Demo Video Script
-
-1. Briefly introduce the dataset and objective.
-2. Show the GitHub repository structure.
-3. Run `python main.py --data data/GlobalWeatherRepository.csv`.
-4. Open `outputs/project_summary.json` and `forecast_model_metrics.csv`.
-5. Explain the best model and ensemble result.
-6. Show generated figures: trend, correlation, anomaly detection, feature importance, and spatial plot.
-7. Summarize insights and next steps.
-
-## Possible Improvements
-
-- Build city-specific forecasting models.
-- Add Prophet or SARIMA for stronger time-series baselines.
-- Add SHAP explanations for model interpretability.
-- Build a Streamlit dashboard for interactive exploration.
-- Use continent mapping to strengthen geographical comparison.
