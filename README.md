@@ -1,4 +1,4 @@
-# Weather Trend Forecasting — Data Scientist / Analyst Tech Assessment
+# Weather Trend Forecasting
 
 This repository contains a complete, reproducible data science project for the **Global Weather Repository** dataset. It covers data cleaning, exploratory data analysis, weather trend forecasting, anomaly detection, environmental impact analysis, feature importance, and spatial/geographical analysis.
 
