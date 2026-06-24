@@ -2,13 +2,6 @@
 
 This repository contains a complete, reproducible data science project for the **Global Weather Repository** dataset. It covers data cleaning, exploratory data analysis, weather trend forecasting, anomaly detection, environmental impact analysis, feature importance, and spatial/geographical analysis.
 
-## PM Accelerator Mission
-
-PM Accelerator mission statement displayed for the assessment requirement:
-
-> We are committed to offering free Product Management education. Our mission is to break down financial barriers and achieve educational fairness.
-
-Source: PM Accelerator official website.
 
 ## Project Objectives
 
