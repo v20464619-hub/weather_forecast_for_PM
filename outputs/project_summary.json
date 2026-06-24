@@ -65,5 +65,5 @@
     ],
     "spatial_locations": 430
   },
-  "outputs_folder": "/mnt/data/weather_forecast_project/outputs"
+  "outputs_folder": "/outputs"
 }
